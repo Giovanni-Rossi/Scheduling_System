@@ -1,7 +1,7 @@
 app_name = "scheduling_system"
 app_title = "Scheduling System"
-app_publisher = "Giovanni Rossi"
-app_description = "Scheduling System"
+app_publisher = "giovanni"
+app_description = "scheduling system"
 app_email = "giovanni2002-rossi@hotmail.com"
 app_license = "mit"
 

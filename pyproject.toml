@@ -1,9 +1,9 @@
 [project]
 name = "scheduling_system"
 authors = [
-    { name = "Giovanni Rossi", email = "giovanni2002-rossi@hotmail.com"}
+    { name = "giovanni", email = "giovanni2002-rossi@hotmail.com"}
 ]
-description = "Scheduling System"
+description = "scheduling system"
 requires-python = ">=3.10"
 readme = "README.md"
 dynamic = ["version"]

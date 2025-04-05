@@ -1,6 +1,6 @@
 ### Scheduling System
 
-Scheduling System
+scheduling system
 
 ### Installation
 
