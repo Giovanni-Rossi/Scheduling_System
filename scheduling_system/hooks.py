@@ -5,6 +5,7 @@ app_description = "scheduling system"
 app_email = "giovanni2002-rossi@hotmail.com"
 app_license = "mit"
 
+
 # Apps
 # ------------------
 
